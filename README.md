@@ -8,7 +8,7 @@ The goal is to simulate realistic IoT traffic patterns (latency, jitter, packet 
 
 1.  **`smarthomenetwork.zip`**: 
     *   Contains the complete OMNeT++ Project.
-    *   Includes: `Network.ned` (Topology), `Logic.cc` (Physics Engine), `omnetpp.ini` (Configuration), and the simulation results (`.vec` file).
+    *   Includes: `Network.ned` (Topology), `Logic.cc` (Physics Engine), `omnetpp.ini` (Configuration), `IoTPacket.msg` (Blueprint for the packets) and the simulation results (`.vec` file).
     
 2.  **`Smart_Home_QoS_Analysis.ipynb`**: 
     *   The Google Colab Notebook. 
@@ -33,6 +33,11 @@ The goal is to simulate realistic IoT traffic patterns (latency, jitter, packet 
 5.  Run all cells to generate the QoS Visualizations.
 
 ## 📊 Technologies Used
-*   **Simulation:** OMNeT++ 6.0, INET Framework
+*   **Simulation:** OMNeT++ 6.0
 *   **Language:** C++ (Simulation Logic), Python (Data Analysis)
 *   **Libraries:** Pandas, NumPy, Scikit-Learn, Seaborn, Matplotlib
+
+## 👤➕👤➕👤Team Members
+1. Akhi Moon Jahan **C223202**
+2. Fayeza Afrah Hissan **C223206**
+3. Israth Jahan Worthy **C223229**
