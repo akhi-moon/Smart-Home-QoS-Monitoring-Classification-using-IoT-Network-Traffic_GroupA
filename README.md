@@ -41,3 +41,9 @@ The goal is to simulate realistic IoT traffic patterns (latency, jitter, packet 
 1. Akhi Moon Jahan **C223202**
 2. Fayeza Afrah Hissan **C223206**
 3. Israth Jahan Worthy **C223229**
+
+## 📄 Copyright
+
+© 2025 Akhi Moon Jahan, Fayeza Afrah Hissan, Israth Jahan Worthy. All rights reserved.
+
+This project was developed as part of the Computer Networks coursework at the **International Islamic University Chittagong (IIUC)**. No part of this project may be copied, modified, distributed, or reused without explicit written permission from the authors.
